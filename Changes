@@ -1,4 +1,7 @@
 Revision history for Perl module Bundle::BricolagePlus.
 
+1.4.1  Thu Sep  5 01:30:41 2002
+       - Added Net::FTPServer.
+
 1.4.0  Wed Sep 04 04:33:32 2002
        - Initial Public Release.

@@ -1,6 +1,6 @@
 package Bundle::BricolagePlus;
 
-our $VERSION = '1.4.0';
+our $VERSION = '1.4.1';
 
 1;
 __END__
@@ -31,6 +31,8 @@ Apache::SizeLimit - Because size does matter
 Devel::Profiler 0.03 - a Perl profiler compatible with dprofpp
 
 Net::SFTP 0.05 - Secure File Transfer Protocol client
+
+Net::FTPServer - A secure, extensible and configurable Perl FTP server
 
 =head1 AUTHOR
 
