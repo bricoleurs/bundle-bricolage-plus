@@ -53,7 +53,7 @@ Crypt::SSLeay - OpenSSL glue that provides LWP https support
 
 Imager - Perl extension for Generating 24 bit Images
 
-Text::Apell - Perl interface to the GNU Aspell library
+Text::Aspell - Perl interface to the GNU Aspell library
 
 XML::DOM - Module for building DOM Level 1 compliant document structures
 
