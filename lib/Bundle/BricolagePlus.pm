@@ -1,6 +1,6 @@
 package Bundle::BricolagePlus;
 
-our $VERSION = '1.6.1';
+our $VERSION = '1.8.0';
 
 1;
 __END__
@@ -23,23 +23,33 @@ distribution, and document management.
 
 =head1 CONTENTS
 
-Bundle::Bricolage - Modules required to run Bricolage content management system
+Bundle::Bricolage - Modules required to run Bricolage content management system.
 
-Apache::SizeLimit - Because size does matter
+HTML::Template - Perl module to use HTML Templates from CGI scripts
+
+HTML::Template::Expr - HTML::Template extension adding expression support
+
+Template 2.09 - Front-end module to the Template Toolkit
+
+Encode - Character encodings
+
+Pod::Simple - Framework for parsing Pod
+
+Test::Pod 0.95 - Check for POD Errors in Files
 
 Devel::Profiler 0.03 - a Perl profiler compatible with dprofpp
 
-Net::SFTP 0.05 - Secure File Transfer Protocol client
+Apache::SizeLimit - Because size does matter
 
 Net::FTPServer - A secure, extensible and configurable Perl FTP server
 
-Pod::Simple - Framework for Parsing Pod
-
-Test::Pod 0.95 - Check for POD Errors in Files
+Net::SFTP 0.05 - Secure File Transfer Protocol client
 
 HTTP::DAV - Perl WebDAV Client Library
 
 Text::Levenshtein - An implementation of the Levenshtein edit distance
+
+Crypt::SSLeay - OpenSSL glue that provides LWP https support
 
 =head1 AUTHOR
 

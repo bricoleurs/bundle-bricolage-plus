@@ -1,4 +1,4 @@
-Bundle/BricolagePlus version 1.6.1
+Bundle/BricolagePlus version 1.8.0
 ==================================
 
 DESCRIPTION
@@ -13,14 +13,19 @@ INCLUDED MODULES
 
 Bundle::Bricolage    - Modules required to run Bricolage content management
                        system
-Apache::SizeLimit    - Because size does matter
-Devel::Profiler 0.03 - a Perl profiler compatible with dprofpp
-Net::SFTP 0.05       - Secure File Transfer Protocol client
-Net::FTPServer       - A secure, extensible and configurable Perl FTP server
-Pod::Simple          - Framework for Parsing Pod
+HTML::Template       - Perl module to use HTML Templates from CGI scripts
+HTML::Template::Expr - HTML::Template extension adding expression support
+Template 2.09        - Front-end module to the Template Toolkit
+Encode               - Character encodings
+Pod::Simple          - Framework for parsing Pod
 Test::Pod 0.95       - Check for POD Errors in Files
+Devel::Profiler 0.03 - a Perl profiler compatible with dprofpp
+Apache::SizeLimit    - Because size does matter
+Net::FTPServer       - A secure, extensible and configurable Perl FTP server
+Net::SFTP 0.07       - Secure File Transfer Protocol client
 HTTP::DAV            - Perl WebDAV Client Library
 Text::Levenshtein    - An implementation of the Levenshtein edit distance
+Crypt::SSLeay        - OpenSSL glue that provides LWP https support
 
 INSTALLATION
 
