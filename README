@@ -26,6 +26,7 @@ Net::SFTP 0.08       - Secure File Transfer Protocol client
 HTTP::DAV            - Perl WebDAV Client Library
 Text::Levenshtein    - An implementation of the Levenshtein edit distance
 Crypt::SSLeay        - OpenSSL glue that provides LWP https support
+Imager               - Perl extension for Generating 24 bit Images
 
 INSTALLATION
 
@@ -35,7 +36,7 @@ To install this module type the following as root:
 
 COPYRIGHT AND LICENCE
 
-Copyright (c) 2002-2003, David Wheeler. All Rights Reserved.
+Copyright (c) 2002-2004, David Wheeler. All Rights Reserved.
 
 This module is free software; you can redistribute it and/or modify it under
 the same terms as Perl itself.
