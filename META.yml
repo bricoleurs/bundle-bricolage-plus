@@ -1,13 +1,12 @@
---- #YAML:1.0
+---
 name: Bundle-BricolagePlus
-version: 1.8.0
+version: 1.8.1
 author:
   - David Wheeler <david@wheeler.net>
-abstract: |-
-  Optional and Required modules for the Bricolage content management system.
+abstract: Optional and Required modules for the Bricolage content management system.
 license: perl
 provides:
   Bundle::BricolagePlus:
     file: lib/Bundle/BricolagePlus.pm
-    version: 1.8.0
-generated_by: Module::Build version 0.25
+    version: 1.8.1
+generated_by: Module::Build version 0.26

@@ -23,8 +23,8 @@
 	or die " *** Cannot install without Module::Build.  Exiting ...\n";
       
       chdir $cwd or die "Cannot chdir() back to $cwd: $!";
-      exec $^X, $makefile, @ARGV;  # Redo now that we have Module::Build
     }
+    eval "use Module::Build::Compat 0.02; 1" or die $@;
     use lib '_build/lib';
     Module::Build::Compat->run_build_pl(args => \@ARGV);
     require Module::Build;
