@@ -1,0 +1,32 @@
+Bundle/BricolagePlus version 1.4.0
+==================================
+
+DESCRIPTION
+
+The bundle provides an easy way to install all of the required and optional
+modules for Bricolage. Bricolage is a 100% pure Perl content-management and
+publishing system which features intuitive and highly-configurable
+administration, workflow, permissions, templating, server-neutral output,
+distribution, and document management. Its home page is http://bricolage.cc/.
+
+INCLUDED MODULES
+
+Bundle::Bricolage    - Modules required to run Bricolage content management
+                       system
+Apache::SizeLimit    - Because size does matter
+Devel::Profiler 0.03 - a Perl profiler compatible with dprofpp
+Net::SFTP 0.05       - Secure File Transfer Protocol client
+
+INSTALLATION
+
+To install this module type the following as root:
+
+   perl -MCPAN -e 'install Bundle::BricolagePlus'
+
+COPYRIGHT AND LICENCE
+
+Copyright (c) 2002, David Wheeler. All Rights Reserved.
+
+This module is free software; you can redistribute it and/or modify it under
+the same terms as Perl itself.
+
