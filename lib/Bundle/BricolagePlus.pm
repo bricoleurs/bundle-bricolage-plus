@@ -1,6 +1,6 @@
 package Bundle::BricolagePlus;
 
-our $VERSION = '1.8.1';
+our $VERSION = '1.8.2';
 
 1;
 __END__
