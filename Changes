@@ -1,5 +1,8 @@
 Revision history for Perl module Bundle::BricolagePlus.
 
+1.6.0  Tue Apr 29 08:46:12 2003
+       - Updated fro Bricolage 1.6.0, with some new modules added.
+
 1.4.1  Thu Sep  5 01:30:41 2002
        - Added Net::FTPServer.
 

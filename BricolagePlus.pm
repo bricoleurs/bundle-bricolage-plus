@@ -1,6 +1,6 @@
 package Bundle::BricolagePlus;
 
-our $VERSION = '1.4.1';
+our $VERSION = '1.6.0';
 
 1;
 __END__
@@ -34,6 +34,14 @@ Net::SFTP 0.05 - Secure File Transfer Protocol client
 
 Net::FTPServer - A secure, extensible and configurable Perl FTP server
 
+Pod::Simple - Framework for Parsing Pod
+
+Test::Pod 0.95 - Check for POD Errors in Files
+
+HTTP::DAV - Perl WebDAV Client Library
+
+Text::Levenshtein - An implementation of the Levenshtein edit distance
+
 =head1 AUTHOR
 
 David Wheeler <david@wheeler.net>
@@ -47,7 +55,7 @@ Bricolage.
 
 =head1 COPYRIGHT AND LICENSE
 
-Copyright (c) 2002, David Wheeler. All Rights Reserved.
+Copyright (c) 2002-2003, David Wheeler. All Rights Reserved.
 
 This module is free software; you can redistribute it and/or modify it under
 the same terms as Perl itself.
