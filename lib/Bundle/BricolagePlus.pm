@@ -43,7 +43,7 @@ Apache::SizeLimit - Because size does matter
 
 Net::FTPServer - A secure, extensible and configurable Perl FTP server
 
-Net::SFTP 0.05 - Secure File Transfer Protocol client
+Net::SFTP 0.08 - Secure File Transfer Protocol client
 
 HTTP::DAV - Perl WebDAV Client Library
 
