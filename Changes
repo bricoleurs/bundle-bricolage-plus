@@ -1,5 +1,8 @@
 Revision history for Perl module Bundle::BricolagePlus.
 
+1.8.1
+       - Updated Template Toolkit required version to 2.14.
+
 1.8.0  2004-05-03T23:46:36
        - Updated for Bricolage 1.8.0, with some new modules added.
 

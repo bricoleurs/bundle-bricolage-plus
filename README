@@ -1,4 +1,4 @@
-Bundle/BricolagePlus version 1.8.0
+Bundle/BricolagePlus version 1.8.1
 ==================================
 
 DESCRIPTION
@@ -15,7 +15,7 @@ Bundle::Bricolage    - Modules required to run Bricolage content management
                        system
 HTML::Template       - Perl module to use HTML Templates from CGI scripts
 HTML::Template::Expr - HTML::Template extension adding expression support
-Template 2.09        - Front-end module to the Template Toolkit
+Template 2.14        - Front-end module to the Template Toolkit
 Encode               - Character encodings
 Pod::Simple          - Framework for parsing Pod
 Test::Pod 0.95       - Check for POD Errors in Files
