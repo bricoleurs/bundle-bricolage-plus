@@ -27,6 +27,10 @@ HTTP::DAV            - Perl WebDAV Client Library
 Text::Levenshtein    - An implementation of the Levenshtein edit distance
 Crypt::SSLeay        - OpenSSL glue that provides LWP https support
 Imager               - Perl extension for Generating 24 bit Images
+Text::Apell          - Perl interface to the GNU Aspell library
+XML::DOM             - Module for building DOM Level 1 compliant document
+                       structures
+CGI                  - Simple Common Gateway Interface Class
 
 INSTALLATION
 
