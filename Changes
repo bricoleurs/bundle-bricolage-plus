@@ -1,5 +1,10 @@
 Revision history for Perl module Bundle::BricolagePlus.
 
+1.6.1
+       - Switched to Module::Build.
+       - Reorganized distribution layout to better reflect Perl standard.
+       - Added POD tests.
+
 1.6.0  Tue Apr 29 08:46:12 2003
        - Updated fro Bricolage 1.6.0, with some new modules added.
 
