@@ -1,6 +1,7 @@
 Revision history for Perl module Bundle::BricolagePlus.
 
-1.8.2
+1.9.0
+       - Added PHP::Interpreter.
 
 1.8.1  2005-03-18T06:04:31
        - Updated Template Toolkit required version to 2.14.

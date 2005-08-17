@@ -1,6 +1,6 @@
 package Bundle::BricolagePlus;
 
-our $VERSION = '1.8.2';
+our $VERSION = '1.9.0';
 
 1;
 __END__
@@ -30,6 +30,8 @@ HTML::Template - Perl module to use HTML Templates from CGI scripts
 HTML::Template::Expr - HTML::Template extension adding expression support
 
 Template 2.14 - Front-end module to the Template Toolkit
+
+PHP::Interpreter - An embedded PHP5 interpreter
 
 Encode - Character encodings
 
