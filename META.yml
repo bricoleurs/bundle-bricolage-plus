@@ -1,6 +1,6 @@
 ---
 name: Bundle-BricolagePlus
-version: 1.8.1
+version: 1.9.0
 author:
   - David Wheeler <david@wheeler.net>
 abstract: Optional and Required modules for the Bricolage content management system.
@@ -8,5 +8,5 @@ license: perl
 provides:
   Bundle::BricolagePlus:
     file: lib/Bundle/BricolagePlus.pm
-    version: 1.8.1
-generated_by: Module::Build version 0.26
+    version: 1.9.0
+generated_by: Module::Build version 0.2702
