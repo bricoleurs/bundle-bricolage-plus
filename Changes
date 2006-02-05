@@ -1,5 +1,7 @@
 Revision history for Perl module Bundle::BricolagePlus.
 
+1.10.1
+
 1.10.0 2006-02-05T03:23:45
        - No changes, just updated the version number to correspond with
          the latest stable release of Bricolage.
