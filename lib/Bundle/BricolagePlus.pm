@@ -1,6 +1,6 @@
 package Bundle::BricolagePlus;
 
-our $VERSION = '1.91';
+our $VERSION = '1.10.0';
 
 1;
 __END__
@@ -49,8 +49,6 @@ Net::SFTP 0.08 - Secure File Transfer Protocol client
 
 HTTP::DAV - Perl WebDAV Client Library
 
-Text::Levenshtein - An implementation of the Levenshtein edit distance
-
 Crypt::SSLeay - OpenSSL glue that provides LWP https support
 
 Imager - Perl extension for Generating 24 bit Images
@@ -74,7 +72,7 @@ Bricolage.
 
 =head1 COPYRIGHT AND LICENSE
 
-Copyright (c) 2002-2004, David Wheeler. All Rights Reserved.
+Copyright (c) 2002-2006, David Wheeler. All Rights Reserved.
 
 This module is free software; you can redistribute it and/or modify it under
 the same terms as Perl itself.

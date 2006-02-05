@@ -1,9 +1,12 @@
 Revision history for Perl module Bundle::BricolagePlus.
 
-1.9.1
+1.10.0 2006-02-05T03:23:45
+       - No changes, just updated the version number to correspond with
+         the latest stable release of Bricolage.
 
 1.9.0  2005-08-17T23:35:49
        - Added PHP::Interpreter.
+       - Removed Text::Levenshtein
 
 1.8.1  2005-03-18T06:04:31
        - Updated Template Toolkit required version to 2.14.
