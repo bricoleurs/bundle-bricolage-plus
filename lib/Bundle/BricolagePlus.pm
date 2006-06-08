@@ -61,7 +61,7 @@ CGI - Simple Common Gateway Interface Class
 
 =head1 AUTHOR
 
-David Wheeler <david@wheeler.net>
+David Wheeler <david@kineticode.com>
 
 =head1 SEE ALSO
 

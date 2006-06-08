@@ -2,7 +2,7 @@
 name: Bundle-BricolagePlus
 version: 1.10.0
 author:
-  - 'David Wheeler <david@wheeler.net>'
+  - 'David Wheeler <david@kineticode.com>'
 abstract: Optional and Required modules for the Bricolage content management system.
 license: perl
 resources:
