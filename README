@@ -1,4 +1,4 @@
-Bundle/BricolagePlus version 1.10.0
+Bundle/BricolagePlus version 1.10.1
 ===================================
 
 DESCRIPTION
@@ -24,6 +24,7 @@ Devel::Profiler 0.03 - a Perl profiler compatible with dprofpp
 Apache::SizeLimit    - Because size does matter
 Net::FTPServer       - A secure, extensible and configurable Perl FTP server
 Net::SFTP 0.08       - Secure File Transfer Protocol client
+Math::BigInt::GMP    - Use the GMP library for Math::BigInt routines
 HTTP::DAV            - Perl WebDAV Client Library
 Crypt::SSLeay        - OpenSSL glue that provides LWP https support
 Imager               - Perl extension for Generating 24 bit Images

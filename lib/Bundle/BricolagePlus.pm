@@ -47,6 +47,8 @@ Net::FTPServer - A secure, extensible and configurable Perl FTP server
 
 Net::SFTP 0.08 - Secure File Transfer Protocol client
 
+Math::BigInt::GMP - Use the GMP library for Math::BigInt routines
+
 HTTP::DAV - Perl WebDAV Client Library
 
 Crypt::SSLeay - OpenSSL glue that provides LWP https support
