@@ -1,6 +1,6 @@
 package Bundle::BricolagePlus;
 
-our $VERSION = '1.10.1';
+our $VERSION = '1.11.0';
 
 1;
 __END__
@@ -23,7 +23,13 @@ distribution, and document management.
 
 =head1 CONTENTS
 
-Bundle::Bricolage - Modules required to run Bricolage content management system.
+Bundle::Bricolage 1.11.0 - Modules required to run Bricolage content management system.
+
+DBD::mysql - MySQL driver for the Perl5 Database Interface
+
+mod_perl2 2.000004 - Embed a Perl interpreter in the Apache/2.x HTTP server
+
+Apache2::Request 2.08 - Methods for dealing with client request data
 
 HTML::Template - Perl module to use HTML Templates from CGI scripts
 
@@ -39,15 +45,13 @@ Pod::Simple - Framework for parsing Pod
 
 Test::Pod 0.95 - Check for POD Errors in Files
 
-Devel::Profiler 0.03 - a Perl profiler compatible with dprofpp
-
 Apache::SizeLimit - Because size does matter
+
+Apache2::SizeLimit - Because size does matter
 
 Net::FTPServer - A secure, extensible and configurable Perl FTP server
 
-Net::SFTP 0.08 - Secure File Transfer Protocol client
-
-Math::BigInt::GMP - Use the GMP library for Math::BigInt routines
+Net::SSH2 0.18 - Support for the SSH 2 protocol via libssh2
 
 HTTP::DAV - Perl WebDAV Client Library
 
@@ -74,7 +78,7 @@ Bricolage.
 
 =head1 COPYRIGHT AND LICENSE
 
-Copyright (c) 2002-2006, David Wheeler. All Rights Reserved.
+Copyright (c) 2002-2008, David E. Wheeler. Some Rights Reserved.
 
 This module is free software; you can redistribute it and/or modify it under
 the same terms as Perl itself.
