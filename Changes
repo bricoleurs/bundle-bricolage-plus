@@ -1,5 +1,7 @@
 Revision history for Perl module Bundle::BricolagePlus.
 
+2.0.0
+
 1.11.0 2008-10-05T22:20:24
        - Added new modules that can be used with Bricolage 1.11.1:
          + DBD::mysql
