@@ -7,7 +7,7 @@ The bundle provides an easy way to install all of the required and optional
 modules for Bricolage. Bricolage is a 100% pure Perl content-management and
 publishing system which features intuitive and highly-configurable
 administration, workflow, permissions, templating, server-neutral output,
-distribution, and document management. Its home page is http://bricolage.cc/.
+distribution, and document management. Its home page is http://bricolagecms.org/.
 
 INCLUDED MODULES
 
